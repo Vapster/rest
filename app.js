@@ -10,4 +10,4 @@ app.get('/posts', (req, res) => {
     res.send('on posts page')
 });
 
-app.listen(3000)
+app.listen(process.env.PORT || 8888)
