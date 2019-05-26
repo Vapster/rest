@@ -1,0 +1,15 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "VS code extention Auto Import 1.2.2 #to auto import component when we declare it in app.module.ts file",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "nodemon": "^1.19.1"
+  }
+}
